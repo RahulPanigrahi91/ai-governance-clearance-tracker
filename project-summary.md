@@ -35,4 +35,4 @@ Use the project to talk about:
 
 ## Suggested title for LinkedIn
 
-Built a weekend prototype for AI governance enablement: intake, risk scoring, checklist automation, and review visibility.
+Built a prototype for AI governance enablement: intake, risk scoring, checklist automation, and review visibility.
