@@ -30,8 +30,8 @@ Use the project to talk about:
 
 ## Suggested links
 
-- Demo: [insert live demo link]
-- GitHub: [insert repository link]
+- Demo: [https://rahulpanigrahi91.github.io/ai-governance-clearance-tracker/]
+- GitHub: [https://github.com/RahulPanigrahi91/ai-governance-clearance-tracker]
 
 ## Suggested title for LinkedIn
 
