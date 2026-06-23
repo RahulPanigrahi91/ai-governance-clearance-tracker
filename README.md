@@ -127,7 +127,7 @@ If this prototype were expanded beyond a weekend build, the next features would 
 
 ## Files
 
-- `ai-governance-clearance-tracker.html` — working interactive demo
+- `index.html` — working interactive demo
 - `README.md` — project overview and architecture notes
 - `recruiter-message.md` — outreach note to accompany the demo
 
